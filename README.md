@@ -9,7 +9,7 @@ github - (https://github.com/austindavis95)
 ##Project Links:
 
 ##Live URL: https://austindavis95.github.io/password-generator/
-## github https://github.com/austindavis95 
+## github https://github.com/austindavis95/password-generator 
 
 ##Password Generator
 
